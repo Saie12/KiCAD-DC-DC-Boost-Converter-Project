@@ -1368,6 +1368,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "VIN"
+		(exclude_from_sim no)
+		(at 51.816 100.33 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+			)
+		)
+		(uuid "3f3969ea-1372-403f-aff8-9d276f092d9c")
+	)
+	(text "VOUT"
+		(exclude_from_sim no)
+		(at 239.268 91.948 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+			)
+		)
+		(uuid "be6b687e-fd44-4be5-aca6-3cbc740f0963")
+	)
 	(junction
 		(at 88.9 92.71)
 		(diameter 0)
@@ -1452,6 +1472,16 @@
 		)
 		(uuid "0b506124-6372-4271-b7d1-b5b65c24b3ad")
 	)
+	(polyline
+		(pts
+			(xy 38.1 135.89) (xy 38.1 43.815)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "0dc2d780-0e8c-4304-9b4d-9523fc690071")
+	)
 	(wire
 		(pts
 			(xy 224.79 82.55) (xy 210.82 82.55)
@@ -1471,6 +1501,16 @@
 			(type default)
 		)
 		(uuid "2123e652-fb2b-43ce-af42-f9e0eb074ffe")
+	)
+	(polyline
+		(pts
+			(xy 253.365 43.815) (xy 253.365 135.255)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "2421d7f7-b2a7-4baa-a605-8296c2b2cb60")
 	)
 	(wire
 		(pts
@@ -1801,6 +1841,16 @@
 			(type default)
 		)
 		(uuid "f50d2f13-7e57-4123-b8c5-ad312af88caf")
+	)
+	(polyline
+		(pts
+			(xy 38.1 43.815) (xy 253.365 43.815)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "fba841d9-5f8b-4e3d-aae0-31d37a9a1e74")
 	)
 	(symbol
 		(lib_id "power:GND")
