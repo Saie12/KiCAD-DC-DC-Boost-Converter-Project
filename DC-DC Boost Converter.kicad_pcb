@@ -87,13 +87,13 @@
 	(footprint "Resistor_SMD:R_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "13b83e81-b35e-4f1c-9dd1-57f9b153abc9")
-		(at 155.0375 43.75)
+		(at 152.5375 107.75)
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
 			(at 0 -1.83 0)
 			(layer "F.SilkS")
-			(uuid "bf12210b-515b-4bc9-8128-7b54518aeab6")
+			(uuid "ba6a7cd1-8155-45af-ac1e-b07844c49750")
 			(effects
 				(font
 					(size 1 1)
@@ -105,7 +105,7 @@
 			(at 0 1.83 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "afcf6081-8054-4550-b2db-14c662ac5e53")
+			(uuid "fd54c99b-8500-4a0a-a765-2fce2a9ba65e")
 			(effects
 				(font
 					(size 1 1)
@@ -117,7 +117,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0636c50c-8d5f-46be-8dd0-847ec78d7a29")
+			(uuid "9a78cb9f-c03c-4821-9e8c-218248be6314")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -129,7 +129,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "629a4359-e9a0-4dd5-aafe-7ef152401eed")
+			(uuid "18d5a28e-61fa-4732-a5d8-48d1a4f73e34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -287,13 +287,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "20be82bd-d945-4bc8-a987-133b94f64cd0")
-		(at 147.5 44.25 180)
+		(at 145 108.25 180)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D1"
 			(at 4.5 0 0)
 			(layer "F.SilkS")
-			(uuid "9fc025d1-81d5-4d10-ba28-4abc3d136499")
+			(uuid "144cad57-259d-4ea4-9b5c-4caebfe46b39")
 			(effects
 				(font
 					(size 1 1)
@@ -305,7 +305,7 @@
 			(at 0 2.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0348ab38-5d67-4b8b-9339-e86b5bc77cbf")
+			(uuid "497c1f60-083d-44ad-a3d7-f626dcc59b64")
 			(effects
 				(font
 					(size 1 1)
@@ -318,7 +318,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "251c708e-5ab5-453f-8992-cff93a6001e6")
+			(uuid "db476f7b-e622-4a38-a220-11e3401c8977")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -331,7 +331,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a51b95aa-d932-4148-842a-c7ba54ad18e7")
+			(uuid "8606d2ac-9308-467e-a995-5a09c0962447")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -561,13 +561,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "26a870fa-aba0-4772-b7cd-f762f785fe86")
-		(at 130.5 26.75)
+		(at 128 90.75)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J1"
-			(at 0 -2.38 0)
+			(at 2.75 -0.25 0)
 			(layer "F.SilkS")
-			(uuid "3772bbde-a5a0-4927-bb62-81edf4cea017")
+			(uuid "a42ee8f8-bc60-4ea5-b5a1-542cb7eaf9fe")
 			(effects
 				(font
 					(size 1 1)
@@ -579,7 +579,7 @@
 			(at 0 2.38 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a65b9d5c-a971-4e30-83ad-0d61b0dd1568")
+			(uuid "63b4a6df-63bc-4de6-8774-0f5d65cc8738")
 			(effects
 				(font
 					(size 1 1)
@@ -591,7 +591,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3341fd23-f6ce-4788-aa94-38294f68c04c")
+			(uuid "5ad2db79-c585-4c4a-9f74-1c9e4016bb39")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -603,7 +603,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "12cbf2a6-823d-4c76-90f4-9634052bad15")
+			(uuid "ffa1ae81-ee4f-4d69-97ee-6d8a97f43a80")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -804,13 +804,13 @@
 	(footprint "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "2c9acf3a-2f46-4194-831f-8549d2798819")
-		(at 173.5 38)
+		(at 171 102)
 		(descr "C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=11mm, Non-Polar Electrolytic Capacitor")
 		(tags "C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 11mm Non-Polar Electrolytic Capacitor")
 		(property "Reference" "C4"
 			(at 1.25 -4.4 0)
 			(layer "F.SilkS")
-			(uuid "c6910597-982d-4126-bbfc-b91002eafd1f")
+			(uuid "9502ea07-d11e-481f-bdfc-bef7e617679d")
 			(effects
 				(font
 					(size 1 1)
@@ -822,7 +822,7 @@
 			(at 1.25 4.4 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "52bc887f-7d7d-4254-9c1c-ab5c79002cbc")
+			(uuid "784a3cb4-709d-46c9-8321-d62ae2bf8f35")
 			(effects
 				(font
 					(size 1 1)
@@ -834,7 +834,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e469ca2-9ebb-4f35-8b1e-8ecb7dadfa26")
+			(uuid "2978258c-1edb-4a7c-987b-175f20c80f06")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -846,7 +846,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "abc0bccd-a55c-4c46-94c3-3d16cb071509")
+			(uuid "de9ee783-06c9-450d-939a-8710013aa98f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -939,13 +939,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "33eb42db-49c9-4a38-88c3-0e5b9f68cfc7")
-		(at 180.25 44.75)
+		(at 177.75 108.75)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J3"
-			(at 0 -2.38 0)
+			(at -2.75 0.25 0)
 			(layer "F.SilkS")
-			(uuid "c71b228a-7f9d-428f-8981-4e06d1e6a359")
+			(uuid "40a65464-bd86-4ed7-abaa-601548fdd621")
 			(effects
 				(font
 					(size 1 1)
@@ -957,7 +957,7 @@
 			(at 0 2.38 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a90651e4-166f-47c0-a210-3d9bad39d660")
+			(uuid "12d7e6fe-2121-403d-9ee9-2c9ed1585854")
 			(effects
 				(font
 					(size 1 1)
@@ -969,7 +969,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d34d5d58-3959-4ad7-b3b7-40314424f396")
+			(uuid "6bf65e2a-93ba-4371-9a34-1ba5944116c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -981,7 +981,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e6ea3308-ad2a-41bf-b51c-cbafa34ab14d")
+			(uuid "c88c2772-c6c4-4f9d-9dbe-6a4f30845dc6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1182,13 +1182,13 @@
 	(footprint "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "4ba070fb-6445-4725-b77d-67a1af5f5b5f")
-		(at 138 40 90)
+		(at 135.5 104 90)
 		(descr "C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=11mm, Non-Polar Electrolytic Capacitor")
 		(tags "C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 11mm Non-Polar Electrolytic Capacitor")
 		(property "Reference" "C1"
 			(at 1.25 -4.4 90)
 			(layer "F.SilkS")
-			(uuid "5f37ce9d-99f9-43d1-8ae6-1814c2f108c4")
+			(uuid "7b7e9488-96cc-4161-b781-98ee7d424cf2")
 			(effects
 				(font
 					(size 1 1)
@@ -1200,7 +1200,7 @@
 			(at 1.25 4.4 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c3c97b83-8e48-4fee-89b2-33f48020c0e0")
+			(uuid "ef276fbd-c9fc-44c1-a816-20085029a750")
 			(effects
 				(font
 					(size 1 1)
@@ -1212,7 +1212,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ad384d6b-3a00-4884-91f9-f3dc29981ccb")
+			(uuid "b56b0f0b-8b36-4607-9835-a0ed8d06594d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1224,7 +1224,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e971ebb-fc14-4d9e-bea0-639ab1006dd6")
+			(uuid "0591632e-3351-4b72-b977-cc9b6fc92760")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1317,13 +1317,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "4d4ab99a-b265-4580-bb94-043528d7decc")
-		(at 180.25 26.75)
+		(at 177.75 90.75)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J4"
-			(at 0 -2.38 0)
+			(at -2.75 0 0)
 			(layer "F.SilkS")
-			(uuid "e6f44204-fe17-4735-b0e4-19443dec6e21")
+			(uuid "2887153f-f780-4b1c-b01b-62293c977262")
 			(effects
 				(font
 					(size 1 1)
@@ -1335,7 +1335,7 @@
 			(at 0 2.38 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea7214b6-32a2-46ee-9ab8-185680f9d57c")
+			(uuid "41e8df5b-8ba7-41a2-81b6-4839122b3148")
 			(effects
 				(font
 					(size 1 1)
@@ -1347,7 +1347,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1cf07f95-df08-4db1-a51c-7cdf82c37277")
+			(uuid "532115ea-eb74-4081-98b1-e54c6ffbc065")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1359,7 +1359,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13fe8e2c-fdd5-4066-8490-14ce808e2691")
+			(uuid "61dd9f63-66b7-4570-bfe3-62597906b1e0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1560,11 +1560,11 @@
 	(footprint "Footprints:DPAK170P1435X465-6N"
 		(layer "F.Cu")
 		(uuid "6e5680e9-ae50-4be3-af82-9beb17e556e1")
-		(at 147 33 90)
+		(at 144.5 97 90)
 		(property "Reference" "VR1"
 			(at 0.25 -6.75 90)
 			(layer "F.SilkS")
-			(uuid "12b29947-b02b-4676-a8a4-06503f1ffbd0")
+			(uuid "9a3c7689-b013-4f04-84b5-6d7665eff45e")
 			(effects
 				(font
 					(size 1 1)
@@ -1576,7 +1576,7 @@
 			(at 4.445 6.35 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a9357c2-7bd6-4b0c-a986-6680915349a9")
+			(uuid "e35c6b92-8fcd-4124-999f-25a5921db378")
 			(effects
 				(font
 					(size 1 1)
@@ -1588,7 +1588,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9de30421-c5f6-4a91-a494-b6a532deeaf9")
+			(uuid "92c05bcf-36b2-4ff7-8886-f80e4cbaec78")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1600,7 +1600,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b00b69db-d07b-4743-b052-7ae1e0f2ed19")
+			(uuid "e5827887-7fdb-44ef-ac22-f0a64c7ab2ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2255,13 +2255,13 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "7ae4cd91-d896-4340-840f-d01f8fbd62ea")
-		(at 173.55 29.75)
+		(at 171.05 93.75)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
-			(uuid "8d61a4e1-7269-4dae-8fcf-14b85f269264")
+			(uuid "91192461-bf19-45eb-baea-02b5412fd5e8")
 			(effects
 				(font
 					(size 1 1)
@@ -2273,7 +2273,7 @@
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5fd6756f-abfe-4acc-ade4-914128be36d1")
+			(uuid "cf035f02-113f-4777-9fad-2f92ea531686")
 			(effects
 				(font
 					(size 1 1)
@@ -2285,7 +2285,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "db47438d-8167-45b7-bde2-76234167ad72")
+			(uuid "acdc687e-d785-4f0a-bb87-8370d8f9cc1d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2297,7 +2297,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "892c4813-785e-4291-bbc8-93e405f71bec")
+			(uuid "d93c8fc7-4cc3-404f-bce7-3c8e92d28aa4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2455,13 +2455,13 @@
 	(footprint "Inductor_SMD:L_12x12mm_H8mm"
 		(layer "F.Cu")
 		(uuid "a28a231b-9a7b-4b19-9bec-76b9ece21558")
-		(at 163.05 31.5)
+		(at 160.55 95.5)
 		(descr "Choke, SMD, 12x12mm 8mm height")
 		(tags "Choke SMD")
 		(property "Reference" "L1"
 			(at 7.95 -5.5 0)
 			(layer "F.SilkS")
-			(uuid "5010877c-4734-4327-a43a-ded18f07de8c")
+			(uuid "b8ab9f7e-b2b5-4d59-a8a7-a57acfeeed5f")
 			(effects
 				(font
 					(size 1 1)
@@ -2473,7 +2473,7 @@
 			(at 0 7.6 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "453fa4ea-0c14-463c-96ac-b9259162ed3e")
+			(uuid "0ce5198a-d5fd-4328-8438-eea01efef689")
 			(effects
 				(font
 					(size 1 1)
@@ -2486,7 +2486,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a87bb925-8886-456d-90aa-cb8eef182b36")
+			(uuid "65c8a157-2610-43a7-aec1-a7d3fb4fc723")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2499,7 +2499,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3316a6f4-15e7-4a84-ad42-7f5dea9ecdab")
+			(uuid "1bd4256f-9231-4e90-a3f9-2391cebd2072")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3281,13 +3281,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "bd3b3363-a3f9-408a-9ad0-25c491a2e71a")
-		(at 130.5 44.75)
+		(at 128 108.75)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J2"
-			(at 0 -2.38 0)
+			(at 2.75 -0.25 0)
 			(layer "F.SilkS")
-			(uuid "cc03606c-8a15-422c-9c77-22522d539bfd")
+			(uuid "37af62ca-377a-44e0-80aa-8ae86b45623c")
 			(effects
 				(font
 					(size 1 1)
@@ -3299,7 +3299,7 @@
 			(at 0 2.38 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17f11223-c6a2-48ba-af6f-750309616801")
+			(uuid "343744d8-5ef0-4086-882f-68d7b9a9ad59")
 			(effects
 				(font
 					(size 1 1)
@@ -3311,7 +3311,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a4788ad-0407-49c0-b92f-05c32d110785")
+			(uuid "0af553cc-004a-418b-a056-f9e7c95d9c85")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3323,7 +3323,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f6b48fde-64d2-4777-aef5-3445b08b7ae4")
+			(uuid "eef3ceb5-ac28-4071-9a1c-d41b354b9709")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3524,13 +3524,13 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "c3226220-d543-4958-a94d-59706eef6392")
-		(at 138 44.75)
+		(at 135.5 108.75)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
-			(uuid "0a84436f-cc66-43e3-8be6-26f505c67e73")
+			(uuid "a6d019d9-b9ae-4764-8a95-64e7281e7daa")
 			(effects
 				(font
 					(size 1 1)
@@ -3542,7 +3542,7 @@
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "76c40092-96e5-4734-957d-79981e391d4b")
+			(uuid "77865ff1-1f8a-4d23-884c-355593a3f4dc")
 			(effects
 				(font
 					(size 1 1)
@@ -3554,7 +3554,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff49661f-6236-46f0-9bf8-11338efe4db1")
+			(uuid "1d45c8e4-caec-4f60-be70-1867a894305e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3566,7 +3566,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df10f401-2ed4-488f-8b80-9d77a1e53a05")
+			(uuid "7f5cc76e-2f4e-40f0-bbb3-b02579c77374")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3724,13 +3724,13 @@
 	(footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 		(layer "F.Cu")
 		(uuid "e92ce2dd-5a34-4b06-b101-64100ef36cca")
-		(at 167 42.75)
+		(at 164.5 106.75)
 		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
 		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "RV1"
 			(at -2.54 -3.66 0)
 			(layer "F.SilkS")
-			(uuid "11717083-5835-40bf-aab0-b13ebabbf000")
+			(uuid "9d5c3ae6-4414-458f-b89d-c220597e19e0")
 			(effects
 				(font
 					(size 1 1)
@@ -3742,7 +3742,7 @@
 			(at -2.54 3.67 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "488bb544-acac-43f1-94c7-21b41e14a79b")
+			(uuid "bb70caee-19bd-447f-a31e-2451df25d1da")
 			(effects
 				(font
 					(size 1 1)
@@ -3754,7 +3754,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67978ca8-21ea-47a2-a08c-2808b1ef777e")
+			(uuid "7b1dbdac-f1dc-4115-bbeb-a29f510db04b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3766,7 +3766,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15ba8a5f-893d-48b3-a68d-1f9aa5d1fbaa")
+			(uuid "a6f3e977-d35e-4d02-9b59-c620b042c53d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3928,6 +3928,17 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 125.5 88)
+		(end 180.25 111.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "ac4beea3-c5ab-447d-8374-7518b229ec0f")
 	)
 	(embedded_fonts no)
 )
